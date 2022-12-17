@@ -50,6 +50,10 @@ p {
   text-transform: capitalize;
 }
 
+.primary-link :hover {
+  color: white;
+}
+
 .secondary-link {
   color: var(--primary-color);
   border: 1px solid var(--primary-color);
